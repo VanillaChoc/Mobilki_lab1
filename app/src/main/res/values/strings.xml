@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">Mobilki1</string>
+    <string name="app_name">WordsFactory</string>
+
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="lets_start">Let\'s Start</string>
+
+    <string name="intro_title_1">Learn anytime\nand anywhere</string>
+    <string name="intro_title_2">Find a course\nfor you</string>
+    <string name="intro_title_3">Improve your skills</string>
+    <string name="intro_desc">Quarantine is the perfect time to spend your\nday learning something new, from anywhere!</string>
+
+    <string name="splash_screen_alt_image_text">bike</string>
+    <string name="intro_screen_first_alt_image_text">two_kids</string>
+    <string name="intro_screen_second_alt_image_text">two_kids_sit</string>
+    <string name="intro_screen_third_alt_image_text">solo_kid</string>
+
+
 </resources>
