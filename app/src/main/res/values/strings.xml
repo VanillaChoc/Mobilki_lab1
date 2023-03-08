@@ -28,4 +28,18 @@
 
     <string name="empty_signup">One or more fields are not filled out. Please check if all fields are filled in and try again.</string>
 
+    <string name="find_word">Find word…</string>
+    <string name="part_of_speech">Part of Speech:</string>
+    <string name="meanings">Meanings:</string>
+    <string name="example">Example:</string>
+    <string name="add_to_dictionary">Add to Dictionary</string>
+
+    <string name="placeholder_short">Something</string>
+    <string name="placeholder_normal">Something Something Something Something Something Something Something Something</string>
+    <string name="placeholder_long">Something Something Something  Something  Something  Something  Something  Something  Something  Something  Something  Something  Something  Something  Something  Something  Something  Something </string>
+    <string name="dictionary_listen_text">listen_button</string>
+
+    <string name="dictionary">Dictionary</string>
+    <string name="training">Training</string>
+    <string name="video">Video</string>
 </resources>

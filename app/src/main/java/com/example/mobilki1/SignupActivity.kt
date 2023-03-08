@@ -44,7 +44,7 @@ class SignupActivity : AppCompatActivity() {
                     }
                     .show()
             } else {
-                startActivity( Intent( this, MainActivity::class.java ) )
+                startActivity( Intent( this, DictionaryActivity::class.java ) )
             }
         }
 
@@ -61,7 +61,7 @@ class SignupActivity : AppCompatActivity() {
                     }
                     .show()
             } else {
-                startActivity( Intent( this, MainActivity::class.java ) )
+                startActivity( Intent( this, DictionaryActivity::class.java ) )
             }
         }
     }
