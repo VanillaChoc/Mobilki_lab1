@@ -15,5 +15,17 @@
     <string name="intro_screen_second_alt_image_text">two_kids_sit</string>
     <string name="intro_screen_third_alt_image_text">solo_kid</string>
 
+    <string name="log_in">Log in</string>
+    <string name="sign_up">Sign up</string>
+
+    <string name="signup_screen_alt_image_text">stand_kid</string>
+    <string name="signup_screen_back_fab_text">back_button</string>
+
+    <string name="signup_description">Create your account</string>
+    <string name="name">Name</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+
+    <string name="empty_signup">One or more fields are not filled out. Please check if all fields are filled in and try again.</string>
 
 </resources>
